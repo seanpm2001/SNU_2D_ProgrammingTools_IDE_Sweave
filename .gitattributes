@@ -33,10 +33,10 @@
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # Sweave source file
-# Recognizing as R for now
+# Starting around 2023/2024, GitHub now recognizes Sweave as a language. The file was updated on 2024.12.15 to reflect this.
 *.Rd linguist-detectable=true
 *.Rd linguist-documentation=false
-*.Rd linguist-language=R
+*.Rd linguist-language=Sweave
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -172,7 +172,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Friday, March 24th at 4:20 pm PST)
+# File version: 6 (2024, Sunday, December 15th at 11:10 pm PST)
 # Line count (including blank lines and compiler line): 179
 
 # End of script
